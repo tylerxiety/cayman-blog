@@ -1,5 +1,5 @@
-title: 谢天禹 Tyler
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages.
+title: 谢天禹的Now List
+description: 个人主页/博客？这其实是一个专注当下的to do list, 或者叫Now List
 show_downloads: False
 
 baseurl: "cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
