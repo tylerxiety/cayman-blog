@@ -15,3 +15,5 @@ layout: home
 
 [用Spark搭建航班延迟预测模型](https://github.com/tylerxiety/Flight-delay-prediction-with-Spark)
 
+[Medium个人主页](https://medium.com/@tylerxty)(需要科学上网)  
+
