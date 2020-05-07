@@ -9,7 +9,12 @@ layout: home
 ---
 
 
-[澳洲短租市场分析](https://tylerxiety.github.io/Rental-Market-Analysis/)
+# [澳洲短租市场分析](https://tylerxiety.github.io/Rental-Market-Analysis/)
+
+洞悉澳洲Airbnb市场，用户画像，以及疫情对市场的影响。
+
+[<img src='https://github.com/tylerxiety/page/blob/master/ausdash.png' width='500' alt='power bi'/>](https://tylerxiety.github.io/Rental-Market-Analysis/)
+
 
 [机器学习/深度学习笔记](https://github.com/tylerxiety/the-Hitchhiker-s-Guide-to-Data-Science)
 
