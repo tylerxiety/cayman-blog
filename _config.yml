@@ -1,5 +1,6 @@
-title: 谢天禹的Now List
-description: 个人主页/博客？这其实是一个专注当下的 to do list, 或者叫Now List
+title: 谢天禹的个人数据项目
+description: 个人项目主页/博客？这其实还是一个to do list
+去当前页看看我最近在做什么吧
 show_downloads: False
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.

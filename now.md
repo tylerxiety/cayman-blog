@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NowList
+title: 当前
 tagline: What I'm doing now
 permalink: /now.html
 ref: now
