@@ -8,7 +8,7 @@
 layout: home
 ---
 
-## 个人项目
+
 [澳洲短租市场分析](https://tylerxiety.github.io/Rental-Market-Analysis/)
 
 [机器学习/深度学习笔记](https://github.com/tylerxiety/the-Hitchhiker-s-Guide-to-Data-Science)
