@@ -8,10 +8,10 @@
 layout: home
 ---
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+## 个人项目
+[澳洲短租市场分析](https://tylerxiety.github.io/Rental-Market-Analysis/)
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
+[机器学习/深度学习笔记](https://github.com/tylerxiety/the-Hitchhiker-s-Guide-to-Data-Science)
 
-Have a look at the Github page for more information.
+[用Spark搭建航班延迟预测模型](https://github.com/tylerxiety/Flight-delay-prediction-with-Spark)
 
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.

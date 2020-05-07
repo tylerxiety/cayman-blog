@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-tagline: 
+tagline: Me in 10 seconds
 permalink: /about.html
 ref: about
 order: 0

@@ -10,11 +10,12 @@ order: 2
 这是一个NowList, 受到Now页[(the /now page movement)](https://sivers.org/nowff)的启发。
 
 >It’s a nice reminder for myself, when I’m feeling unfocused. 
+>
 >A public declaration of priorities.
 
 NowList可以是重要待办事项，或是一段时间的目标。是公开的更是对自己的提醒。
 
-如果我发现自己正在做的事情不在NowList上，那我应该把它加上去，还是停下。
+如果我发现自己正在做的事情不在NowList上，那我应该把它加上去，还是停下?
 <br>
 # Now List (2020/05/07)
 
@@ -45,11 +46,12 @@ NowList可以是重要待办事项，或是一段时间的目标。是公开的�
 - 社交
     - 每两周认识至少一个有共同兴趣的人（数据科学/future house/）
     - 加入一个高质量的线上/下数据科学社群
-- 旅行
+- 阅读
+    - 《增长黑客》
+    - 《黑天鹅》
 
 
 <br>
 
-This is a [now page](https://nownownow.com/about), and it was inspired by [the /now movement](https://sivers.org/nowff). If you have your own site, [you should make one](https://nownownow.com/about), too.
 
 [返回]({{ '/' | absolute_url }})
