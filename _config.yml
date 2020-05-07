@@ -2,7 +2,7 @@ title: 谢天禹的Now List
 description: 个人主页/博客？这其实是一个专注当下的 to do list, 或者叫Now List
 show_downloads: False
 
-baseurl: "cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://tylerxiety.github.io" # change this to the base hostname & protocol for your site
 
 
