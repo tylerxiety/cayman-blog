@@ -1,19 +1,20 @@
 ---
 layout: page
 title: About
-tagline: Me in 10 seconds
+tagline: Me in 30 seconds
 permalink: /about.html
 ref: about
 order: 0
 ---
 
-10秒钟自我介绍：
+Aspiring data scientist specialised in data visualisaion and machine learning modelling with a Master's in 
+information systems. Previously worked in ride-hailing and property rental services in Nigeria and Melbourne, 
+respectively. Currently seeking opportunity in Australia.
+ 
+Prefer Python to R, Power BI to Tableau, TensorFow to PyTorch. 
 
-数据科学爱好者。运营过在非洲的打车出行，做过澳洲的民宿短租，也采访过国内的科技大佬。
-
-Python跟R站Python, TensorFlow跟PyTorch站TF，纠结于Power BI还是Tableau。
-最近找工作想做个正正经经的数据科学家，坐标不限。
+Occasionally write/translate China-focused tech articles.
 
 <br>
 
-[返回]({{ '/' | absolute_url }})
+[Back]({{ '/' | absolute_url }})
