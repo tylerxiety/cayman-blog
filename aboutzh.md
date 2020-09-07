@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于
 tagline: Me in 10 seconds
 permalink: /about.html
 ref: about
