@@ -53,4 +53,4 @@ If I find myself doing something that is not on the list. Should I add it or sto
 <br>
 
 
-[返回]({{ '/' | absolute_url }})
+[Back]({{ '/' | absolute_url }})

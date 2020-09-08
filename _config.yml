@@ -20,7 +20,7 @@ theme: # leave it empty
 author: Tyler
 image: #/thumbnail-jumbo.png
 twitter:
-  username: #lorepirri
+  username: tylerxXxie
 
 plugins:
   #- jekyll-target-blank
@@ -28,4 +28,4 @@ plugins:
 target-blank:
     rel: #nofollow
 
-header_page_refs: ['now','about'] #, 'contact']
+header_page_refs: ['about'] #,'now' 'contact']

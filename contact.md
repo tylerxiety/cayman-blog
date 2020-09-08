@@ -7,4 +7,4 @@ order: 1
 ---
 
 
-[返回]({{ '/' | absolute_url }})
+[Back]({{ '/' | absolute_url }})
