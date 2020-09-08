@@ -4,7 +4,7 @@ title: 关于
 tagline: Me in 10 seconds
 permalink: /about.html
 ref: about
-order: 0
+order: 5
 ---
 
 10秒钟自我介绍：

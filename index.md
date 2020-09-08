@@ -8,6 +8,8 @@
 layout: home
 ---
 
+## Data Projects
+
 ## [Property Rental Pricing](https://github.com/tylerxiety/rentalpricing)
 The project is to find the right rental strategies to maximise revenues for property owners in Melbourne. 
 This breaks down into formulating and solving regression, classification, and optimisation problems based on 
