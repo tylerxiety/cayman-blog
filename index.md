@@ -8,7 +8,7 @@
 layout: home
 ---
 
-# Data Projects:
+# Tyler's Project List:
 
 ## [Property Rental Pricing](https://github.com/tylerxiety/rentalpricing)
 The project is to find the right rental strategies to maximise revenues for property owners in Melbourne. 
