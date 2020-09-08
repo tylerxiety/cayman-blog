@@ -18,7 +18,7 @@ records of rental listings.
 
 <img src='https://raw.githubusercontent.com/tylerxiety/tylerxiety.github.io/master/pic/melbuilding.jpg' width='800'/>
 
-<p>  </p>
+<p>&nbsp;  </p>
 
 ## [Smart Pricing for Petrol Stations](https://smart-pricing.herokuapp.com/smart-pricing-input)
 The objective was to find the right pricing strategies for a petrol station chain to maximise revenue, 
