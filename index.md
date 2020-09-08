@@ -8,7 +8,7 @@
 layout: home
 ---
 
-## Data Projects
+# Data Projects
 
 ## [Property Rental Pricing](https://github.com/tylerxiety/rentalpricing)
 The project is to find the right rental strategies to maximise revenues for property owners in Melbourne. 
@@ -18,7 +18,7 @@ records of rental listings.
 
 <img src='https://raw.githubusercontent.com/tylerxiety/tylerxiety.github.io/master/pic/melbuilding.jpg' width='800'/>
 
-<p>&nbsp  </p>
+<p>  </p>
 
 ## [Smart Pricing for Petrol Stations](https://smart-pricing.herokuapp.com/smart-pricing-input)
 The objective was to find the right pricing strategies for a petrol station chain to maximise revenue, 
@@ -39,5 +39,6 @@ Data visualisation of Australia's Short-term Rental Market.
 <img src='https://raw.githubusercontent.com/tylerxiety/tylerxiety.github.io/master/pic/ausdash.png'
  width='800'/>
 
+<p></p>
 
 More to come ...
