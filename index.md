@@ -36,7 +36,7 @@ See the [demo page here](https://smart-pricing.herokuapp.com/smart-pricing-input
 
 Data visualisation of Australia's Short-term Rentals Market.
 
-<img src='https://raw.githubusercontent.com/tylerxiety/tylerxiety.github.io/master/pic/ausdash.png'
+<img src='https://raw.githubusercontent.com/tylerxiety/tylerxiety.github.io/master/pic/dashboard_en.png'
  width='800'/>
 
 <p>&nbsp;  </p>
