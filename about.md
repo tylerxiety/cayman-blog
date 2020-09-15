@@ -11,7 +11,7 @@ Aspiring data scientist specialised in data visualisaion and machine learning mo
 information systems. Previously worked in ride-hailing and property rental services in Nigeria and Melbourne, 
 respectively. Currently seeking opportunity in Australia.
  
-Prefer Python to R, Power BI to Tableau, TensorFow to PyTorch. 
+<Prefer Python to R, Power BI to Tableau, TensorFow to PyTorch.> 
 
 Occasionally write/translate China-focused tech articles.
 
