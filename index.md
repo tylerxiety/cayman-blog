@@ -32,11 +32,11 @@ See the [demo page here](https://smart-pricing.herokuapp.com/smart-pricing-input
 
 <p>&nbsp;  </p>
 
-## [Australia's Short-term Rentals Market Visualisation](https://tylerxiety.github.io/Rental-Market-Analysis/)
+## [Australia's Short-term Rentals Market Visualisation](https://github.com/tylerxiety/rental-analysis)
 
 Data visualisation of Australia's Short-term Rentals Market.
 
-<img src='https://raw.githubusercontent.com/tylerxiety/tylerxiety.github.io/master/pic/dashboard.png'
+<img src='https://tylerxie.shinyapps.io/short_term_rental_viz'
  width='800'/>
 
 <p>&nbsp;  </p>
