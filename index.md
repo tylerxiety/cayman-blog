@@ -36,8 +36,7 @@ See the [demo page here](https://smart-pricing.herokuapp.com/smart-pricing-input
 
 Data visualisation of Australia's Short-term Rentals Market.
 
-<img src='https://tylerxie.shinyapps.io/short_term_rental_viz'
- width='800'/>
+<iframe width="800" height="480" src="https://tylerxie.shinyapps.io/short_term_rental_viz" frameborder="0" allowFullScreen="true"></iframe>
 
 <p>&nbsp;  </p>
 
