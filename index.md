@@ -10,6 +10,16 @@ layout: home
 
 # Tyler's Project List:
 
+## [Smart Pricing for Petrol Stations](https://smart-pricing.herokuapp.com/smart-pricing-input)
+The project is to build a pricing engine that recommends the right pricing strategies for a petrol station chain to achieve the best business outcomes. 
+The pricing engine uses machine learning and optimisation algorithms to do the magic. This is a proof of concept done by a team of 4 data scientists. 
+
+See the [demo page here](https://smart-pricing.herokuapp.com/smart-pricing-input).
+
+<img src='https://raw.githubusercontent.com/tylerxiety/tylerxiety.github.io/master/pic/petrolstation.jpg' width='800'/>
+
+<p>&nbsp;  </p>
+
 ## [Property Rental Pricing](https://github.com/tylerxiety/rentalpricing)
 The project is to find the right rental strategies to maximise revenues for property owners in Melbourne. 
 This breaks down into formulating and solving regression, classification, and optimisation problems based on 
@@ -17,18 +27,6 @@ rental scenarios. The solution is a web app with optimisation APIs and models pr
 records of rental listings.
 
 <img src='https://raw.githubusercontent.com/tylerxiety/tylerxiety.github.io/master/pic/melbuilding.jpg' width='800'/>
-
-<p>&nbsp;  </p>
-
-## [Smart Pricing for Petrol Stations](https://smart-pricing.herokuapp.com/smart-pricing-input)
-The objective was to find the right pricing strategies for a petrol station chain to maximise revenue, 
-in a team of 4 data scientists. This breaks down into training machine learning models on 25 million 
-transaction records and solving optimisation problems based on store policies. The solution was a web 
-app with optimisation and model APIs.
-
-See the [demo page here](https://smart-pricing.herokuapp.com/smart-pricing-input).
-
-<img src='https://raw.githubusercontent.com/tylerxiety/tylerxiety.github.io/master/pic/petrolstation.jpg' width='800'/>
 
 <p>&nbsp;  </p>
 
